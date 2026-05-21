@@ -5,12 +5,13 @@ A simple Facebook-style UI clone built using React and Vite. This project focuse
 ---
 
 ## 🚀 Live Demo
-👉 Add your Netlify / Vercel link here
+👉  https://fb-post-section-with-react.netlify.app/
 
 ---
 
 ## 📸 Preview
-👉 Add screenshot of your project here
+ <img width="849" height="925" alt="image" src="https://github.com/user-attachments/assets/6cee52b9-8d30-49b1-831f-7c18931bb84a" />
+
 
 ---
 
