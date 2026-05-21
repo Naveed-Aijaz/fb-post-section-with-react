@@ -1,50 +1,16 @@
-# 📘 Facebook Clone (React + Vite)
+# React + Vite
 
-A simple Facebook-style UI clone built using React and Vite. This project focuses on UI design, reusable components, and basic state management like likes functionality.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
----
+Currently, two official plugins are available:
 
-## 🚀 Live Demo
-👉  https://fb-post-section-with-react.netlify.app/
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
----
+## React Compiler
 
-## 📸 Preview
- <img width="849" height="925" alt="image" src="https://github.com/user-attachments/assets/6cee52b9-8d30-49b1-831f-7c18931bb84a" />
+The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
+## Expanding the ESLint configuration
 
----
-
-## 🛠️ Tech Stack
-
-- React JS
-- Vite
-- SCSS (Sass)
-- React Icons
-
----
-
-## ✨ Features
-
-- Facebook-style header UI
-- Post card layout
-- Like button with counter
-- Comment & Share buttons (UI only)
-- Responsive design
-- Component-based structure
-
----
-
-## 📁 Project Structure
-
-
----
-
-## ⚙️ Installation & Setup
-
-Clone the repository:
-
-```bash
-git clone https://github.com/Naveed-Aijaz/facebook-clone.git
-
-
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.

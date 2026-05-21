@@ -1,0 +1,31 @@
+ $black: #1e3cab;
+ $cream: #ead6c4;
+
+
+
+ .header {
+     position: sticky;
+     top: 0;
+     padding: 1em;
+     background-color: $black;
+     color: $cream;
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+
+     ul {
+         display: flex;
+         justify-content: flex-start;
+         align-items: center;
+         gap: 2em;
+
+         li {
+             list-style: none;
+
+             a {
+                 all: unset;
+                 cursor: pointer;
+             }
+         }
+     }
+ }
